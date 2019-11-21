@@ -1,0 +1,2 @@
+include ':circle_imageview'
+rootProject.name='Circle_ImageView'
